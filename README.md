@@ -1,1 +1,1 @@
-Link pra jogar: https://maressa-alves.github.io/JogoTrexPB/
+Jogue aqui: https://maressa-alves.github.io/Jogo-Do-Trex/
